@@ -12,7 +12,7 @@ body{
     background-size: 100% !important;
     opacity: 0.90 !important;
     background-position: 0 0 !important;
-    background-image: url(fundo.jpg);
+   background-color: black;
     content: '';
     position: absolute;;
     z-index: 999;
